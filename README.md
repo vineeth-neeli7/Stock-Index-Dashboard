@@ -36,7 +36,7 @@ how_to_run:
     - Clone this repository
     - Install dependencies using: `pip install -r requirements.txt`
     - Place **indexData.csv** in the project root directory
-    - Run the app using: `python project_StructredLabs.py`
+    - Run the app using: `python Interactive_Stock_Plot.py`
 
 output:
   type: **Interactive Line Chart**
