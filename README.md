@@ -45,6 +45,9 @@ output:
     - **Dropdown menu** to toggle indices
     - **Date range selector** for zooming
     - **Hover tooltips** showing date and price details
+ screenshot:
+ [![image](https://github.com/user-attachments/assets/0531084c-8f2b-4ef8-81ec-80d3ebd7329f)](https://github.com/vineeth-neeli7/Stock-Index-Dashboard/blob/main/Stock%20Dashboard%20Screenshot.jpg)
+
 
 author:
   name: **Sai Vineeth Neeli**
